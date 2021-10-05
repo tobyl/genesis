@@ -1,0 +1,58 @@
+.online-gaming {
+  .main {
+    .page-header {
+      display: none;
+    }
+
+    p {
+      display: block;
+      width: 48%;
+      float: left;
+      margin: 0 0 1rem 0;
+      border-radius: 6px;
+      overflow: hidden;
+      transition: transform 121ms ease-out;
+
+      a {
+        br {
+          display: none;
+        }
+
+        img {
+          width: 100%;
+          display: block;
+        }
+      }
+
+      &:nth-child(odd) {
+        margin-right: 4%;
+      }
+
+      &:hover {
+        transform: scale(1.05);
+      }
+    }
+
+    .onlinegames {
+      a {
+        width: 100%;
+      }
+
+      h4 {
+        clear: both;
+        text-align: center;
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .online-gaming {
+    .main {
+      p {
+        width: 23%;
+        margin-right: 2% !important;
+      }
+    }
+  }
+}

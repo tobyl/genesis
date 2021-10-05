@@ -1,0 +1,15 @@
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+  <body class="{{ page.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.layout %} layout-{{ page.layout }}{% endif %}">
+    <div class="wrapper clearfix" role="document">
+      {% include header.html %}
+      {{ content }}
+      {% include sidebar.html %}
+    </div>
+    {% include footer.html %}
+    {% include js.html %}
+  </body>
+</html>

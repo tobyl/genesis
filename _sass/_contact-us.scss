@@ -1,0 +1,44 @@
+#map {
+  width: calc(100% + 30px);
+  min-height: 200px;
+  margin-left: -15px;
+  margin-bottom: -2rem;
+}
+
+body.contact-us {
+  .wrapper {
+    padding-bottom: 0;
+
+    .main {
+      .page-header {
+        display: none;
+      }
+
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  body.contact-us {
+    .wrapper {
+      .main {
+        ul {
+          width: 49%;
+
+          &.ggaddr {
+            float: left;
+          }
+
+          &.telemail {
+            float: right;
+          }
+        }
+      }
+    }
+  }
+}

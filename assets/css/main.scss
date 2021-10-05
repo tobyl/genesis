@@ -1,0 +1,81 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600&display=swap');
+
+@import "variables";
+
+/** Import theme styles */
+@import "global";
+@import "buttons";
+@import "comments";
+@import "forms";
+@import "wp-classes";
+@import "lightbox";
+@import "grid";
+@import "header";
+@import "sidebar";
+@import "footer";
+@import "pages";
+@import "posts";
+@import "tinymce";
+
+// pages
+@import "meet-the-team";
+@import "example-games";
+@import "contact-us";
+@import "products";
+@import "home";
+
+// 3rd party
+@import "slick";
+@import "slick-theme";
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  line-height: 1.5;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+a {
+  color: $brand-primary-light;
+  transition: all 107ms ease-in;
+
+  &:hover {
+    text-decoration: none;
+    color: $brand-primary;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  font-weight: 500;
+}
+
+hr {
+  clear: both;
+  display: block;
+  height: 1px;
+  border: none;
+  background: $brand-primary-light;
+}
+
+.page-cta {
+  text-align: center;
+  color: darken($brand-secondary, 10%);
+  margin-top: 2rem;
+
+  a {
+    color: darken($brand-secondary, 20%);
+  }
+}

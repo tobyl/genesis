@@ -1,0 +1,58 @@
+.sidebar {
+  background: rgba($brand-primary-light, 0.5);
+  box-shadow: inset 0 0 30px 10px $brand-primary-light;
+  border-radius: 6px;
+  padding: 2%;
+
+  h3 {
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba($brand-primary, 0.5);
+    letter-spacing: 0.05rem;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      background: url('/assets/img/stars.svg');
+      background-repeat: no-repeat;
+      background-position: center bottom;
+      background-size: 350px auto;
+      padding-bottom: 2rem;
+      margin-bottom: 0.75rem;
+      color: #fff;
+
+      a {
+        display: block;
+        color: #fff;
+        text-decoration: none;
+        font-weight: 500;
+        margin-bottom: 0.5rem;
+      }
+
+      .rpwwt-post-excerpt {
+        position: relative;
+        padding-bottom: 3rem;
+
+        a {
+          display: inline-block;
+          position: absolute;
+          left: 0;
+          bottom: 0;
+          border: 1px solid #fff;
+          white-space: nowrap;
+          font-size: 0.85rem;
+          padding: 3px 6px;
+          border-radius: 3px;
+          background: rgba($brand-primary-light, 0.3);
+        }
+      }
+
+      &:last-child {
+        background: none;
+      }
+    }
+  }
+}

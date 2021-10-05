@@ -1,0 +1,27 @@
+.meet-the-team {
+  .main {
+    p {
+      img {
+        float: left;
+        border: 5px solid #ccc;
+        margin-right: 1rem;
+        margin-bottom: 0.5rem;
+      }
+    }
+
+    .bio {
+      p:first-child {
+        color: $brand-primary-light;
+        font-size: 1.25rem;
+        font-weight: 500;
+        margin-bottom: 0;
+
+        em {
+          color: #bbb;
+          font-size: 0.9rem;
+          margin-left: 0.25rem;
+        }
+      }
+    }
+  }
+}

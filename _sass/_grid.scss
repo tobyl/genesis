@@ -1,0 +1,46 @@
+.wrapper {
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  max-width: 960px;
+  background: #fff;
+  padding-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .wrapper {
+    .main {
+      width: 60%;
+      float: left;
+    }
+
+    .sidebar {
+      width: 32%;
+      float: right;
+    }
+  }
+
+  .online-gaming {
+    .wrapper {
+      .main {
+        width: 100%;
+      }
+    }
+  }
+
+  .genesis-products {
+    .wrapper {
+      .main {
+        width: 100%;
+      }
+    }
+  }
+}
+
+// contact page
+
+.wrapper {
+  .main.full-width {
+    width: 100%;
+  }
+}

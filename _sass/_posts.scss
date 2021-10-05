@@ -1,0 +1,51 @@
+article.post {
+  padding-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #e1e1e1;
+
+  .entry-title {
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.updated {
+  display: block;
+  width: 55px;
+  text-align: center;
+  border-top: none;
+  font-size: 0.8rem;
+  float: left;
+  margin-right: 1rem;
+  margin-bottom: 5px;
+
+  .month-day {
+    display: block;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    margin: 0;
+  }
+
+  .full-year {
+    margin: 0;
+    display: block;
+    font-weight: 500;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    font-size: 0.95rem;
+  }
+
+  &::before {
+    content: '';
+    display: block;
+    width: 55px;
+    height: 10px;
+    background: $brand-secondary;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+  }
+}
