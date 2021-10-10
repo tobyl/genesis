@@ -1,36 +1,28 @@
-{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+---
+layout: with-sidebar
+---
 
-<!doctype html>
-<html lang="en">
-  {% include head.html %}
-  <body class="{{ layout }}">
-    <div class="wrapper clearfix" role="document">
-      {% include header.html %}
-      <article>
-        <header>
-          <h1 class="entry-title">{{ page.title }}</h1>
-          <time class="updated">
-            <span class="month-day">
-              {% assign m = page.date | date: "%B" %}
-              {% case m %}
-                {% when 'May' %}
-                  {{ m }}
-                {% when 'September' %}
-                  Sept.
-                {% else %}
-                  {{ page.date | date: "%b" }}
-              {% endcase %}
-              {{ page.date  | date: "%d" }}
-            </span>
-            <span class="full-year">
-              {{ page.date  | date: "%Y" }}
-            </span>
-          </time>
-        </header>
-        {{ content }}
-      </article>
-    </div>
-    {% include footer.html %}
-    {% include js.html %}
-  </body>
-</html>
+<header class="clearfix">
+  <h2 class="entry-title">{{ page.title }}</h2>
+</header>
+
+<div class="post-content">
+  <time class="updated">
+    <span class="month-day">
+      {% assign m = page.date | date: "%B" %}
+      {% case m %}
+        {% when 'May' %}
+          {{ m }}
+        {% when 'September' %}
+          Sept.
+        {% else %}
+          {{ page.date | date: "%b" }}
+      {% endcase %}
+      {{ page.date  | date: "%d" }}
+    </span>
+    <span class="full-year">
+      {{ page.date  | date: "%Y" }}
+    </span>
+  </time>
+  {{ content }}
+</div>

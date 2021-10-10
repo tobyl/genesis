@@ -1,5 +1,5 @@
-.online-gaming {
-  .main {
+.example-games {
+  main#main {
     .page-header {
       display: none;
     }
@@ -47,8 +47,8 @@
 }
 
 @media (min-width: 768px) {
-  .online-gaming {
-    .main {
+  .example-games {
+    main#main {
       p {
         width: 23%;
         margin-right: 2% !important;

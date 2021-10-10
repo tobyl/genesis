@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: with-sidebar
 ---
 
 <div class="content">

@@ -3,6 +3,7 @@
   min-height: 200px;
   margin-left: -15px;
   margin-bottom: -2rem;
+  margin-top: 2rem;
 }
 
 body.contact-us {
@@ -26,7 +27,7 @@ body.contact-us {
 @media (min-width: 768px) {
   body.contact-us {
     .wrapper {
-      .main {
+      main#main {
         ul {
           width: 49%;
 

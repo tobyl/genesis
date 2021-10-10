@@ -8,30 +8,33 @@
 }
 
 @media (min-width: 768px) {
-  .wrapper {
-    .main {
-      width: 60%;
-      float: left;
-    }
-
-    .sidebar {
-      width: 32%;
-      float: right;
-    }
-  }
-
-  .online-gaming {
+  body.with-sidebar,
+  body.post {
     .wrapper {
-      .main {
-        width: 100%;
+      main#main {
+        width: 60%;
+        float: left;
+      }
+
+      .sidebar {
+        width: 32%;
+        float: right;
       }
     }
-  }
 
-  .genesis-products {
-    .wrapper {
-      .main {
-        width: 100%;
+    .online-gaming {
+      .wrapper {
+        main#main {
+          width: 100%;
+        }
+      }
+    }
+
+    .genesis-products {
+      .wrapper {
+        main#main {
+          width: 100%;
+        }
       }
     }
   }

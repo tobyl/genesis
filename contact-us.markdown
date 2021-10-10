@@ -22,7 +22,9 @@ permalink: /contact-us/
         <li><a title="Email Genesis Games Today" href="mailto:info@genesisgames.net">info@genesisgames.net</a></li>
       </ul>
     </div>
-    <div id="map"></div>
+    <div class="map-holder">
+      <div id="map"></div>
+    </div>
   </main>
 </div>
 
