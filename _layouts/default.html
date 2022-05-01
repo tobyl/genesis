@@ -2,7 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <title>{{ site.title }} {% if page.title %}| {{ page.title }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Genesis Games">
+    <meta property="og:title" content="genesisgames.net">
+    <meta property="og:site_name" content="genesisgames.net">
+    <meta property="og:url" content="https://genesisgames.net/{{ page.slug }}">
+    <meta property="og:description" content="Genesis Games">
+    <meta property="og:type" content="website">
     <link rel="stylesheet" href="/assets/css/main.css">
   </head>
   <body class="{{ page.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.layout %} {{ page.layout }}{% endif %}">

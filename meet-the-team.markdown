@@ -38,24 +38,16 @@ permalink: /meet-the-team/
 <p><img loading="lazy" class="alignnone size-full wp-image-102" title="ian" src="/images/ian.jpg"
     alt="" width="104" height="138" /></p>
 <div class="bio">
-  <p>Ian Smyth<em>Support Manager</em></p>
+  <p>Ian Smyth<em>Technical Sales Manager</em></p>
   <p>On finishing university, Ian fulfilled a number of sales and management roles before joining Genesis in 2003 as
     Sales &amp; Marketing Support Manager.</p>
   <p><a href="tel:+441494773030">+44.7739.741920</a></p>
 </div>
 <hr />
-<p><img loading="lazy" class="alignnone size-full wp-image-102" title="mary" src="/images/mary.jpg"
-    alt="" width="104" height="138" /></p>
-<div class="bio">
-  <p>Mary Smyth<em>Customer Liaison</em></p>
-  <p>Customer satisfaction is of paramount importance to Genesis and Mary plays a very proactive role to ensure that
-    customers always come first.</p>
-</div>
-<hr />
 <p><img loading="lazy" class="alignnone size-full wp-image-102" title="shelley"
     src="/images/Shelley.jpg" alt="" width="104" height="138" /></p>
 <div class="bio">
-  <p>Shelley Chaplin<em>Spares and Aftersales</em></p>
+  <p>Shelley Chaplin<em>Aftersales Support Manager</em></p>
   <p>Since joining the Genesis team in 2006, Shelley plays an important roll in the control of spares and after
     sales support.</p>
 </div>
@@ -63,7 +55,7 @@ permalink: /meet-the-team/
 <p><img loading="lazy" class="alignnone size-full wp-image-102" title="luke" src="/images/luke.jpg"
     alt="" width="104" height="138" /></p>
 <div class="bio">
-  <p>Luke Hatherell<em>Aftersales Support</em></p>
+  <p>Luke Hatherell<em>Technical Support Manager</em></p>
   <p>Luke Hatherell is responsible for after sales administration support; both for hardware and software issues. He
     is also involved in field support for service and installations.</p>
   <p><a href="tel:+441494773030">+44.1494.773030</a></p>

@@ -9,6 +9,16 @@ permalink: /genesis-products/
     <div class="products">
       <div class="product clearfix">
         <div class="skewer large">
+          <img src="/images/property.jpg" />
+        </div>
+        <div class="content">
+          <h3>AMATIC CX30</h3>
+          <p>We are pleased to announce our latest offering for the UK and Eire market, the Amatic CX30. The new cabinet design has already received great interest from both operators and players in the UK and Eire. Housed in a robust metal cabinet, the CX30 boasts latest technology with full HD wide-screen 27” monitors and state of the art sound system. Based on the Amatic Hardrox platform, the CX30 really delivers!!!</p>
+        </div>
+      </div>
+      
+      <div class="product clearfix">
+        <div class="skewer large">
           <img src="/images/roulette.jpg" />
         </div>
         <div class="content">
