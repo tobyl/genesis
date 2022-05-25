@@ -93,3 +93,63 @@ hr {
     }
   }
 }
+
+// mobile nav
+
+#mobileNav {
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  left: -250px;
+  bottom: 0;
+  width: 250px;
+  padding: 2.5rem 1.25rem 1.25rem 1.25rem;
+  color: #fff;
+  background: #2f6490;
+  border-right: 1px solid #fff;
+  z-index: 1;
+  transition: left 131ms ease-out;
+  &.active {
+    left: 0;
+  }
+}
+
+#mobileNav a {
+  color: inherit;
+}
+
+#mobileNav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2rem 0;
+}
+
+#navClose {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  border: none;
+  border-radius: 14px;
+  svg {
+    display: block;
+    width: 16px;
+    fill: #2f6490;
+  }
+  &:hover {
+    background: #ccc;
+    cursor: pointer;
+  }
+}
+
+@media (min-width: 768px) {
+  #mobileNav {
+    display: none;
+  }
+}
