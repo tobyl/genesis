@@ -9,6 +9,15 @@ permalink: /genesis-products/
     <div class="products">
       <div class="product clearfix">
         <div class="skewer large">
+          <img src="/images/cxs30.jpg" />
+        </div>
+        <div class="content">
+          <h3>AMATIC CXS30</h3>
+          <p>The CXs30 cabinet comes in twin and triple-screen formats and impresses with its consistent lines and is the "eye-catcher" for every casino and every arcade. As an upright device and due to the stunning look of the housing it ensures ergonomic play with exciting, profitable games. It has a cutting edge sound system, LED lighting on the entire gaming machine, outstanding clear and player friendly design and the components to fit individual needs for example, TITO (ticket in, ticket out) coin and bill validator and hopper.</p>
+        </div>
+      </div>
+      <div class="product clearfix">
+        <div class="skewer large">
           <img src="/images/property.jpg" />
         </div>
         <div class="content">
@@ -16,7 +25,15 @@ permalink: /genesis-products/
           <p>We are pleased to announce our latest offering for the UK and Eire market, the Amatic CX30. The new cabinet design has already received great interest from both operators and players in the UK and Eire. Housed in a robust metal cabinet, the CX30 boasts latest technology with full HD wide-screen 27” monitors and state of the art sound system. Based on the Amatic Hardrox platform, the CX30 really delivers!!!</p>
         </div>
       </div>
-      
+      <div class="product clearfix">
+        <div class="skewer large">
+          <img src="/images/property.jpg" />
+        </div>
+        <div class="content">
+          <h3>AMATIC CX30</h3>
+          <p>We are pleased to announce our latest offering for the UK and Eire market, the Amatic CX30. The new cabinet design has already received great interest from both operators and players in the UK and Eire. Housed in a robust metal cabinet, the CX30 boasts latest technology with full HD wide-screen 27” monitors and state of the art sound system. Based on the Amatic Hardrox platform, the CX30 really delivers!!!</p>
+        </div>
+      </div>
       <div class="product clearfix">
         <div class="skewer large">
           <img src="/images/roulette.jpg" />
@@ -27,7 +44,6 @@ permalink: /genesis-products/
             spent enjoying the increasingly entertaining game formats now available.</p>
         </div>
       </div>
-
       <div class="product clearfix">
         <div class="skewer">
           <img src="/images/new-stand-alone-jackpot.jpg" />
@@ -39,7 +55,6 @@ permalink: /genesis-products/
             market leader in gaming product development, have designed and built the Amarox twin screen.</p>
         </div>
       </div>
-
       <div class="product clearfix">
         <div class="skewer">
           <img src="/images/amarox-twin-screen.jpg" />
@@ -51,7 +66,6 @@ permalink: /genesis-products/
             market leader in gaming product development, have designed and built the Amarox twin screen.</p>
         </div>
       </div>
-
       <div class="product clearfix">
         <div class="skewer">
           <img src="/images/mario-triple-screen-with-jackpot.jpg" />
@@ -64,7 +78,6 @@ permalink: /genesis-products/
             jackpot.</p>
         </div>
       </div>
-
       <div class="product clearfix">
         <div class="skewer with-padding">
           <img src="/images/grandarc.png" />
@@ -78,7 +91,6 @@ permalink: /genesis-products/
             the players have come to expect.</p>
         </div>
       </div>
-
       <div class="product clearfix">
         <div class="skewer with-padding">
           <img src="/images/RGJD_all4.png" />
@@ -92,7 +104,6 @@ permalink: /genesis-products/
             included. Equally all the Amatic range of accessories can be linked to the machine.</p>
         </div>
       </div>
-
       <div class="product clearfix">
         <div class="skewer with-padding">
           <img src="/images/C22-Mermaid3l.png" />
@@ -107,7 +118,6 @@ permalink: /genesis-products/
             compatible Casino Management System.</p>
         </div>
       </div>
-
       <div class="product clearfix">
         <div class="skewer with-padding">
           <img src="/images/GJ_22WS.png" />
@@ -121,7 +131,6 @@ permalink: /genesis-products/
             coin/note in, hopper/printer out. Satellites can also be added to increase players numbers.</p>
         </div>
       </div>
-
       <div class="product clearfix">
         <div class="skewer with-padding">
           <img src="/images/b3_full.png" />
@@ -133,7 +142,6 @@ permalink: /genesis-products/
             ticket redemption facilities.Cat C.</p>
         </div>
       </div>
-
       <div class="product clearfix">
         <div class="skewer with-padding">
           <img src="/images/rgj.png" />
@@ -145,10 +153,9 @@ permalink: /genesis-products/
             fantastic electronic roulette solution.</p>
         </div>
       </div>
-
       <h3 class="page-cta">For more information about these products or any other casino and gaming entertainment needs,
-        <a href="../contact-us/index.html">contact us</a> or call Genesis Games at +44.1494.773030</h3>
-
+        <a href="../contact-us/index.html">contact us</a> or call Genesis Games at +44.1494.773030
+      </h3>
     </div> <!-- products -->
   </main>
 </div>
