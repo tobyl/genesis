@@ -60,3 +60,10 @@ permalink: /meet-the-team/
     is also involved in field support for service and installations.</p>
   <p><a href="tel:+441494773030">+44.1494.773030</a></p>
 </div>
+<p><img loading="lazy" class="alignnone size-full wp-image-102" title="luke" src="/images/reece.jpg"
+    alt="" width="104" height="138" /></p>
+<div class="bio">
+  <p>Reece Hatherell<em>Group Marketing-Social Media-Logistics Manager</em></p>
+  <p>Having graduated from university, Reece fulfils the modern day requirements for the latest Social Media and Web site support systems vital to modern business and commerce. Additionally he organises the movement of machines from Amatic to the UK.</p>
+  <p><a href="tel:+441494773030">+44.1494.773030</a></p>
+</div>
