@@ -9,6 +9,15 @@ permalink: /genesis-products/
     <div class="products">
       <div class="product clearfix">
         <div class="skewer large">
+          <img src="/images/roulette-curved.png" />
+        </div>
+        <div class="content">
+          <h3>8 Player Roulette</h3>
+          <p>The cutting-edge electronic roulette system designed for up to 8 players offers the ultimate gaming experience, setting a new standard in the industry. This innovative solution was recognized as the winner at the prestigious ICE Show 2024, solidifying its position for live roulette enthusiasts looking for an immersive and thrilling gameplay. The adding of Amatic HX technology cabinets such as Amarox, Grand-arc and CXs30 allows the player to play the new roulette from the cabinet. This feature only emphasizes how valuable it is to have a large Amatic presence on your gaming floor!</p>
+        </div>
+      </div>
+      <div class="product clearfix">
+        <div class="skewer large">
           <img src="/images/cxs30.jpg" />
         </div>
         <div class="content">

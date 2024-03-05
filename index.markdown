@@ -4,6 +4,9 @@ layout: with-sidebar
 
 <div class="content">
   <main class="main">
+    <a href="https://www.amatic.com/products/" target="_blank" style="display: block; border-radius: 6px; overflow: hidden; margin-bottom: 1rem;">
+        <img src="/images/anim.gif" style="display: block; width: 100%;" />
+    </a>
     <div id="banner"><img loading="lazy" class="alignnone wp-image-570 size-full"
         src="/images/multigame.jpg" alt="LinkedPerformers" width="500" height="230" /><img loading="lazy"
         class="alignnone wp-image-570 size-full" src="/images/big-roulette.jpg" alt="LinkedPerformers"
