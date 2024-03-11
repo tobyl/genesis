@@ -9,6 +9,15 @@ permalink: /genesis-products/
     <div class="products">
       <div class="product clearfix">
         <div class="skewer large">
+          <img src="/images/c27.jpg" />
+        </div>
+        <div class="content">
+          <h3>27" Cat C</h3>
+          <p>Introducing the all-new 27" Cat C, now equipped with enhanced power slot games that are sure to captivate players. The latest note recycler ensures added reliability, making it a top choice for operators. The new Hi-Res graphics enhance the player appeal, providing a visually stunning gaming experience. With the addition of new gamble features, players can now enjoy increased interaction and excitement. Furthermore, two new roulette games with the Amatic Go for Gold feature have been introduced, offering even more variety and chances to win. All these incredible features are priced to ensure maximum return on investment for operators, making it a must-have in any gaming establishment.</p>
+        </div>
+      </div>
+      <div class="product clearfix">
+        <div class="skewer large">
           <img src="/images/roulette-curved.png" />
         </div>
         <div class="content">
